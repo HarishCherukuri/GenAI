@@ -1,0 +1,33 @@
+{
+  "hybrid": {
+    "e0d7af623b5df2f859368cb5dc8f0a1a": {
+      "return": "{\"high_level_keywords\": [\"Company offices\", \"Insurellm\", \"Business presence\"], \"low_level_keywords\": [\"Number of offices\", \"Locations\", \"Corporate structure\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How many offices does Insurellm have?"
+    }
+  },
+  "global": {
+    "cc112f1eb825218448eb2cf17b51dfcd": {
+      "return": "{\"high_level_keywords\": [\"Offices\", \"Insurellm\", \"Company locations\"], \"low_level_keywords\": [\"Number of offices\", \"Corporate structure\", \"Headquarters\", \"Branch offices\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How many offices does Insurellm have?"
+    },
+    "9949cd4ceeff246136787eb3fe384f0c": {
+      "return": "{\"high_level_keywords\": [\"Employees\", \"Company size\", \"Insurellm\"], \"low_level_keywords\": [\"Employee count\", \"Workforce\", \"Staffing\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "How many employees does Insurellm have?"
+    }
+  }
+}
